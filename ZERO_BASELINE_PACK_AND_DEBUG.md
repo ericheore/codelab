@@ -106,3 +106,5 @@ pwsh ./tools/collect_debug_bundle.ps1 -Version 1.1.0 -GameLogPath "<你的游戏
 - `debug_bundle/debug_bundle_*.zip`
 
 把这个 zip 发我就行，我会自己看。
+
+> 你如果刚下载完源码，请先看：`NEXT_STEP_AFTER_DOWNLOAD.md`。
