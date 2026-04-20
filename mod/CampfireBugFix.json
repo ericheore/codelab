@@ -1,0 +1,9 @@
+{
+  "id": "CampfireBugFix",
+  "name": "Campfire Bug Fix",
+  "author": "your-name",
+  "version": "1.1.0",
+  "description": "Restore post-selection navigation to deck in upgrade/remove/transform card screens.",
+  "entry_dll": "CampfireBugFix.dll",
+  "entry_pck": "CampfireBugFix.pck"
+}
