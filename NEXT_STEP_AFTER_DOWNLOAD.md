@@ -49,3 +49,5 @@ pwsh ./tools/collect_debug_bundle.ps1 -Version 1.1.0 -GameLogPath "你的游戏�
 把这个 zip 发我，我来继续帮你处理。
 
 > 还没生成 `.pck` 的话，请先看：`GODOT_TOOLCHAIN_ZERO_TO_ONE.md`。
+
+> 如果你要的是完整从零到可用，请先看：`COMPLETE_ZERO_TO_ONE_FULL.md`。
