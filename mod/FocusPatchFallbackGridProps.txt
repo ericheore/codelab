@@ -1,0 +1,3 @@
+# 从 grid 回退焦点时的属性候选
+DefaultFocusedControl
+FocusedControlFromTopBar

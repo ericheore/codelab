@@ -1,0 +1,3 @@
+# CardHolder 属性候选
+CardHolder
+DeckCardHolder
