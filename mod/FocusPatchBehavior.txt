@@ -1,0 +1,4 @@
+# 行为开关（key=value）
+# true  = 仅在“首次选中”(selectedCount==1)时重建邻接（默认更稳）
+# false = 每次选中后都重建邻接（更接近商店多选删牌的漏洞复现需求）
+reseed_only_first_selection=false

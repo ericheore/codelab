@@ -1,0 +1,4 @@
+# 点击相关方法候选
+OnCardClicked
+OnDeckCardClicked
+OnCardSelected
