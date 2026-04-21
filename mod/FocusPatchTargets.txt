@@ -1,0 +1,9 @@
+# 可按你当前游戏版本覆盖目标界面类型名；每行一个。
+# 下面是默认候选（含商店删牌的常见命名变体）
+NDeckUpgradeSelectScreen
+NDeckRemoveCardSelectScreen
+NDeckTransformCardSelectScreen
+NShopPurgeCardSelectScreen
+NShopRemoveCardSelectScreen
+NShopDeckRemoveSelectScreen
+NMerchantPurgeCardSelectScreen
